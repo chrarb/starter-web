@@ -16,4 +16,5 @@ the purpose is to learn how to use diff
 
 Can be on any web server anywhere
 
-
+### Copyright
+This is a copyright notice
