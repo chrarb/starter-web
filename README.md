@@ -12,6 +12,8 @@ the purpose is to learn how to use diff
 
 ## How To Contribute
 
+By using this project you are contributing
+
 ## Deployment
 
 Can be on any web server anywhere
