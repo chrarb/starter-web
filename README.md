@@ -21,4 +21,4 @@ By using this project you are contributing
 Can be on any web server anywhere
 
 ### Copyright
-This is a copyright notice
+This is a copyright notice 2018
