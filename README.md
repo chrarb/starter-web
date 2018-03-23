@@ -6,7 +6,7 @@ your stuff on features branch maybe
 
 ## Introduction
 
-We are going to show diff
+We are going to show how to use git
 
 ## Purpose
 
