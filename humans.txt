@@ -4,6 +4,7 @@
 # TEAM
 
   John Doe - Developer - Git Industries
+  Mark Dowson - Dev - Git Industries
 
 # THANKS
 
